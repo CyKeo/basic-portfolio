@@ -10,3 +10,7 @@
 <h3> Author </h3>
 <p> Cyrus Keo </p>
 
+<h3> Portfolio landing page screenshot </h3>
+
+<img src="./assets/images/screenshot.jpeg" alt="website screenshot">
+
